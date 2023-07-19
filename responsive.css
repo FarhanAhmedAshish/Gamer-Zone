@@ -13,6 +13,9 @@ font-family: 'Work Sans', sans-serif;
        
         
     }
+    .og{
+        font-size: 45px;
+    }
 
     .right{
         flex-direction: column;
@@ -674,3 +677,4 @@ line-height: 60px;
 
 
 
+}
